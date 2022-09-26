@@ -2,7 +2,7 @@
 - 👀 I’m interested in genomics
 - 🌱 I’m currently learning pipelines
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 brajerovam@gmail.com
 
 <!---
 MarBraj/MarBraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
